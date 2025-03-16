@@ -1,0 +1,11 @@
+server_port: 9070
+fail_fast: false
+
+log_dir: ./logs
+log_level: info
+
+db_host: localhost
+db_port: 3306
+db_username: walter
+db_password: password
+db_name: mmuc
